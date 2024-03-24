@@ -46,7 +46,7 @@ exploring cities, offering guided tours, historical insights, and
 interactive maps. It aims to enhance the tourist experience and 
 facilitate exploration.
 ![Group 19](https://github.com/Rakshachauhan-10/Tourism-and-City-Exploration/assets/108562958/d442a074-7352-4d62-b515-dc53c61424b7)
-![Group 16](https://github.com/Rakshachauhan-10/Tourism-and-City-Exploration/assets/108562
+![Group 16 (3)](https://github.com/Rakshachauhan-10/Tourism-and-City-Exploration/assets/108562958/d3ca8f9b-eecf-4351-8d6c-cfe1e1656183)
 ![Group 18](https://github.com/Rakshachauhan-10/Tourism-and-City-Exploration/assets/108562958/cf537e44-c61a-4cad-87d1-f99695838dba)
 958/69838901-92d3-4ae5-9a94-9a2425718ba8)
 
