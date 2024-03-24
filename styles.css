@@ -1,0 +1,87 @@
+/* styles.css
+
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+#map {
+    height: 400px;
+}
+
+#tour-info, #tour-list {
+    margin: 20px;
+}
+
+#tour-info h2, #tour-list h2 {
+    margin-top: 0;
+}
+
+#tours {
+    list-style: none;
+    padding: 0;
+}
+
+.tour-item {
+    margin-bottom: 10px;
+    cursor: pointer;
+} */
+/* styles.css */
+
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #222;
+    color: #eee;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+#map {
+    height: 400px;
+}
+
+#tour-info, #tour-list {
+    margin: 20px;
+}
+
+#tour-info h2, #tour-list h2 {
+    margin-top: 0;
+}
+
+#tours {
+    list-style: none;
+    padding: 0;
+}
+
+.tour-item {
+    margin-bottom: 10px;
+    cursor: pointer;
+    background-color: #444;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.tour-item:hover {
+    background-color: #555;
+}

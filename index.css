@@ -1,0 +1,1338 @@
+.frame-child {
+    width: 100%;
+    height: 1068px;
+    position: absolute;
+    margin: 0 !important;
+    right: 0;
+    bottom: 387px;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .nav-bar {
+    height: 80px;
+    width: 1920px;
+    position: relative;
+    background-color: var(--color-gray-200);
+    display: none;
+    max-width: 100%;
+  }
+  .home-history-about {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    letter-spacing: -0.02em;
+    line-height: 39.2px;
+    font-weight: 500;
+    font-family: inherit;
+    white-space: pre-wrap;
+    flex-shrink: 0;
+    z-index: 2;
+  }
+  .nav-bar-parent {
+    align-self: stretch;
+    height: 242px;
+    background-color: var(--color-gray-200);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 75px 635px var(--padding-29xl);
+    box-sizing: border-box;
+    max-width: 100%;
+    z-index: 1;
+    text-align: left;
+    font-size: var(--font-size-13xl);
+    color: var(--color-black);
+    font-family: var(--font-inter);
+  }
+  .pexels-hemant-singh-chauhan-17-icon {
+    width: 100%;
+    height: 1080px;
+    position: absolute;
+    margin: 0 !important;
+    top: 0;
+    right: 0;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+  }
+  .unlock-rajasthans-mystical {
+    width: 821px;
+    position: relative;
+    letter-spacing: -0.02em;
+    line-height: 140.4%;
+    font-weight: 800;
+    display: inline-block;
+    flex-shrink: 0;
+    max-width: 100%;
+    z-index: 1;
+  }
+  .step-into-a,
+  .unlock-card {
+    display: flex;
+    max-width: 100%;
+  }
+  .unlock-card {
+    align-self: stretch;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+  }
+  .step-into-a {
+    width: 845px;
+    height: 110px;
+    position: relative;
+    font-size: var(--font-size-5xl);
+    letter-spacing: -0.02em;
+    font-weight: 500;
+    color: #c7c7c7;
+    align-items: center;
+    flex-shrink: 0;
+    z-index: 1;
+  }
+  .unlock-card-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 2px;
+    max-width: 100%;
+  }
+  .explore-now {
+    position: relative;
+    font-size: var(--font-size-13xl);
+    letter-spacing: -0.02em;
+    line-height: 39.2px;
+    font-weight: 600;
+    font-family: var(--font-inter);
+    color: var(--color-black);
+    text-align: left;
+  }
+  .explore-button {
+    cursor: pointer;
+    border: 0;
+    padding: var(--padding-base-5) 37px;
+    background-color: var(--color-silver-100);
+    border-radius: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    white-space: nowrap;
+    z-index: 1;
+  }
+  .explore-button:hover,
+  .get-started-wrapper:hover {
+    background-color: var(--color-gray-100);
+  }
+  .explore-button-wrapper {
+    width: 777px;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .explore-button-wrapper,
+  .jaipur-header,
+  .jaipur-header-wrapper {
+    display: flex;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  .jaipur-header {
+    width: 909px;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 34px;
+  }
+  .jaipur-header-wrapper {
+    width: 1761px;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 var(--padding-xl) 269px;
+    box-sizing: border-box;
+    text-align: left;
+    font-size: 68.4px;
+    color: var(--color-silver-100);
+    font-family: var(--font-inter);
+  }
+  .explore-experience-enchant {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    letter-spacing: -0.02em;
+    line-height: 140.4%;
+    font-weight: 700;
+    font-family: inherit;
+    backdrop-filter: blur(15px);
+  }
+  .explore-experience-enchant-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-xl);
+  }
+  .nav-bar1,
+  .pexels-saman-films-6060943-1-icon {
+    width: 888px;
+    position: relative;
+    display: none;
+    max-width: 100%;
+  }
+  .pexels-saman-films-6060943-1-icon {
+    height: 651px;
+    border-radius: var(--br-12xl);
+    object-fit: cover;
+  }
+  .nav-bar1 {
+    height: 154px;
+    border-radius: var(--br-11xl);
+    background-color: var(--color-gainsboro-100);
+  }
+  .jaipur {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 400;
+    font-family: inherit;
+    z-index: 2;
+  }
+  .hawa-mahal-card,
+  .nav-bar-group {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .nav-bar-group {
+    border-radius: var(--br-11xl);
+    background-color: var(--color-gainsboro-100);
+    align-items: flex-start;
+    padding: 52px 334px 44px;
+    box-sizing: border-box;
+    z-index: 1;
+  }
+  .hawa-mahal-card {
+    border-radius: var(--br-12xl);
+    align-items: flex-end;
+    background-image: url(./public/pexelssamanfilms6060943-1@2x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    min-width: 577px;
+    min-height: 651px;
+  }
+  .nav-bar2,
+  .pexels-sharad-bhat-3974152-1-icon {
+    width: 867px;
+    position: relative;
+    border-radius: var(--br-11xl);
+    display: none;
+    max-width: 100%;
+  }
+  .pexels-sharad-bhat-3974152-1-icon {
+    height: 651px;
+    object-fit: cover;
+  }
+  .nav-bar2 {
+    height: 147px;
+    background-color: var(--color-gainsboro-100);
+  }
+  .forts {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 400;
+    font-family: inherit;
+    display: inline-block;
+    min-width: 117px;
+    z-index: 2;
+  }
+  .hawa-mahal-card1,
+  .nav-bar-container {
+    border-radius: var(--br-11xl);
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .nav-bar-container {
+    flex: 1;
+    background-color: var(--color-gainsboro-100);
+    align-items: flex-start;
+    padding: var(--padding-22xl) 364px var(--padding-29xl);
+    box-sizing: border-box;
+    z-index: 1;
+  }
+  .hawa-mahal-card1 {
+    height: 651px;
+    width: 867px;
+    align-items: flex-end;
+    background-image: url(./public/pexelssharadbhat3974152-1@2x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    min-width: 867px;
+  }
+  .hawa-mahal-card-parent,
+  .privacy-terms-link {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 33px;
+    max-width: 100%;
+  }
+  .privacy-terms-link {
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 0 0 15px;
+    box-sizing: border-box;
+    gap: 28px;
+    color: var(--color-black);
+  }
+  .pexels-bhumik-photography-5621-icon {
+    height: 730px;
+    width: 695px;
+    position: relative;
+    border-radius: var(--br-xl);
+    object-fit: cover;
+    display: none;
+    max-width: 100%;
+  }
+  .nature {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    letter-spacing: -0.02em;
+    font-weight: 600;
+    font-family: inherit;
+    z-index: 1;
+  }
+  .pexels-bhumik-photography-5621-parent {
+    flex: 0.9573;
+    border-radius: var(--br-xl);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: var(--padding-32xl) var(--padding-37xl);
+    box-sizing: border-box;
+    background-image: url(./public/pexelsbhumikphotography5621421-1@2x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    min-width: 452px;
+    min-height: 730px;
+    max-width: 100%;
+  }
+  .pexels-jatin-verma-9180007-1-icon {
+    height: 730px;
+    width: 695px;
+    position: relative;
+    border-radius: var(--br-xl);
+    object-fit: cover;
+    display: none;
+    max-width: 100%;
+  }
+  .heritage {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    letter-spacing: -0.02em;
+    font-weight: 600;
+    font-family: inherit;
+    z-index: 1;
+  }
+  .pexels-jatin-verma-9180007-1-parent {
+    flex: 1;
+    border-radius: var(--br-xl);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: var(--padding-32xl) var(--padding-24xl);
+    box-sizing: border-box;
+    background-image: url(./public/pexelsjatinverma9180007-1@2x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    min-width: 452px;
+    min-height: 730px;
+    max-width: 100%;
+  }
+  .email-field,
+  .input-field {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  .email-field {
+    width: 1486px;
+    justify-content: flex-start;
+    gap: var(--gap-77xl);
+  }
+  .input-field {
+    align-self: stretch;
+    justify-content: center;
+    padding: 0 var(--padding-xl) 12px;
+    box-sizing: border-box;
+    font-size: var(--font-size-23xl);
+  }
+  .pexels-bhawani-shankar-kumawat-icon {
+    height: 730px;
+    width: 695px;
+    position: relative;
+    border-radius: var(--br-xl);
+    object-fit: cover;
+    display: none;
+    max-width: 100%;
+  }
+  .palace-and-fort {
+    margin: 0;
+    height: 51px;
+    position: relative;
+    font-size: inherit;
+    letter-spacing: -0.02em;
+    font-weight: 600;
+    font-family: inherit;
+    display: inline-block;
+    z-index: 1;
+  }
+  .pexels-bhawani-shankar-kumawat-parent {
+    flex: 1;
+    border-radius: var(--br-xl);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: var(--padding-38xl) var(--padding-6xl);
+    box-sizing: border-box;
+    background-image: url(./public/pexelsbhawanishankarkumawat4023930-1@2x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    min-width: 452px;
+    min-height: 730px;
+    max-width: 100%;
+  }
+  .pexels-sanjeev-pingoliya-44787-icon {
+    height: 730px;
+    width: 695px;
+    position: relative;
+    border-radius: var(--br-xl);
+    object-fit: cover;
+    display: none;
+    max-width: 100%;
+  }
+  .fort-stays {
+    margin: 0;
+    height: 51px;
+    position: relative;
+    font-size: inherit;
+    letter-spacing: -0.02em;
+    font-weight: 600;
+    font-family: inherit;
+    display: inline-block;
+    z-index: 1;
+  }
+  .pexels-sanjeev-pingoliya-44787-parent {
+    flex: 0.9442;
+    border-radius: var(--br-xl);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: var(--padding-38xl) var(--padding-24xl);
+    box-sizing: border-box;
+    background-image: url(./public/pexelssanjeevpingoliya4478716-1@2x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    min-width: 452px;
+    min-height: 730px;
+    max-width: 100%;
+  }
+  .frame-group,
+  .input-field1 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    max-width: 100%;
+  }
+  .frame-group {
+    width: 1486px;
+    gap: var(--gap-77xl);
+  }
+  .input-field1 {
+    align-self: stretch;
+    padding: 0 var(--padding-xl);
+    box-sizing: border-box;
+    font-size: var(--font-size-23xl);
+  }
+  .pexels-shubham-verma-11146084-icon {
+    height: 100%;
+    flex: 1;
+    max-width: 100%;
+    overflow: hidden;
+    object-fit: contain;
+    position: absolute;
+    left: 24px;
+    top: 35px;
+    width: 100%;
+    transform: scale(1.369);
+  }
+  .wrapper-pexels-shubham-verma-1 {
+    height: 890px;
+    flex: 1;
+    position: relative;
+    border-radius: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 0;
+  }
+  .hawa-mahal-where,
+  .whispers-through-the {
+    margin: 0;
+  }
+  .hawa-mahal-where-container {
+    margin: 0 !important;
+    position: absolute;
+    top: 63px;
+    right: 352px;
+    font-size: inherit;
+    letter-spacing: -0.02em;
+    font-weight: 400;
+    font-family: inherit;
+    text-shadow: 1px 0 0#c6c6c6, 0 1px 0#c6c6c6, -1px 0 0#c6c6c6, 0-1px 0#c6c6c6;
+    z-index: 1;
+  }
+  .wrapper-pexels-shubham-verma-1-parent {
+    align-self: stretch;
+    width: 1406px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: relative;
+    max-width: 100%;
+  }
+  .email-notification-card {
+    width: 1762px;
+    height: 890px;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 var(--padding-xl);
+    box-sizing: border-box;
+    font-family: var(--font-fredericka-the-great);
+  }
+  .email-notification-card,
+  .search-component,
+  .search-component-wrapper {
+    display: flex;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  .search-component {
+    flex: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: var(--gap-40xl);
+  }
+  .search-component-wrapper {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 0 66px;
+    box-sizing: border-box;
+    text-align: left;
+    font-size: var(--font-size-29xl);
+    color: var(--color-silver-100);
+    font-family: var(--font-inter);
+  }
+  .email-input-field {
+    height: 1080px;
+    flex: 1;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .search-svgrepocom-icon {
+    height: 42px;
+    width: 43px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+    min-height: 42px;
+    z-index: 4;
+  }
+  .search1 {
+    color: #d9d9d9;
+  }
+  .span {
+    color: var(--color-black);
+  }
+  .search {
+    position: relative;
+    font-size: var(--font-size-13xl);
+    letter-spacing: -0.02em;
+    display: inline-block;
+    font-family: var(--font-inter);
+    text-align: left;
+    min-width: 106px;
+  }
+  .search-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 3.5px 0 0;
+  }
+  .email-input-field-parent,
+  .search-icon,
+  .submit-button {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .submit-button {
+    cursor: pointer;
+    border: 0;
+    padding: 13px 18px var(--padding-base-5);
+    background-color: rgba(0, 0, 0, 0.44);
+    height: 72px;
+    width: 347px;
+    margin: 0 !important;
+    position: absolute;
+    top: 55px;
+    right: 63px;
+    border-radius: var(--br-mini);
+    box-sizing: border-box;
+    gap: var(--gap-40xl);
+    z-index: 3;
+  }
+  .email-input-field-parent,
+  .search-icon {
+    align-self: stretch;
+    max-width: 100%;
+  }
+  .email-input-field-parent {
+    flex: 1;
+    position: relative;
+  }
+  .search-icon {
+    height: 1096px;
+    padding: 0 0 var(--padding-base);
+    box-sizing: border-box;
+  }
+  .screenshot-2024-03-24-133700-1 {
+    width: 100%;
+    height: 1080px;
+    position: absolute;
+    margin: 0 !important;
+    right: 0;
+    bottom: 1179px;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .enter-your-e-mail,
+  .notified-of-exclusive {
+    margin: 0;
+  }
+  .enter-your-e-mail-container {
+    height: 108px;
+    width: 747px;
+    position: relative;
+    letter-spacing: -0.02em;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    z-index: 1;
+  }
+  .enter-your-e-mail-address-and-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 50px 0 var(--padding-32xl);
+  }
+  .safety-info-card-child {
+    height: 106px;
+    width: 848px;
+    position: relative;
+    border-radius: var(--br-xs);
+    background-color: var(--color-silver-100);
+    border: 4px solid var(--color-darkgray);
+    box-sizing: border-box;
+    display: none;
+    max-width: 100%;
+  }
+  .your-e-mail-address {
+    margin: 0;
+    align-self: stretch;
+    position: relative;
+    font-size: inherit;
+    letter-spacing: -0.02em;
+    font-weight: 600;
+    font-family: inherit;
+    z-index: 2;
+  }
+  .cancellation-options-card {
+    width: 273px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-xl) 0 0;
+    box-sizing: border-box;
+  }
+  .get-started {
+    flex: 1;
+    position: relative;
+    font-size: var(--font-size-5xl);
+    letter-spacing: -0.02em;
+    font-weight: 600;
+    font-family: var(--font-montserrat);
+    color: var(--color-black);
+    text-align: left;
+  }
+  .get-started-wrapper,
+  .safety-info-card {
+    background-color: var(--color-silver-100);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .get-started-wrapper {
+    cursor: pointer;
+    border: 1px solid var(--color-black);
+    padding: 22.5px 61px;
+    width: 261px;
+    border-radius: var(--br-mini);
+    justify-content: flex-start;
+    white-space: nowrap;
+    z-index: 2;
+  }
+  .get-started-wrapper:hover {
+    border: 1px solid #333;
+    box-sizing: border-box;
+  }
+  .safety-info-card {
+    align-self: stretch;
+    border-radius: var(--br-xs);
+    border: 4px solid var(--color-darkgray);
+    justify-content: space-between;
+    padding: var(--padding-base) 22px var(--padding-base) 47px;
+    max-width: 100%;
+    gap: var(--gap-xl);
+    z-index: 1;
+    font-size: 28px;
+    color: var(--color-darkgray);
+  }
+  .frame-container {
+    width: 848px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 67px;
+    max-width: 100%;
+  }
+  .frame-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 46px var(--padding-base) var(--padding-xl);
+    box-sizing: border-box;
+    max-width: 100%;
+    text-align: center;
+    font-size: 44.6px;
+    color: #140633;
+    font-family: var(--font-montserrat);
+  }
+  .tourism-and-city {
+    margin: 0;
+    width: 733px;
+    position: relative;
+    font-size: inherit;
+    letter-spacing: 0.05em;
+    line-height: 120%;
+    font-weight: 400;
+    font-family: inherit;
+    display: inline-block;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .tourism-and-city-exploration-wrapper {
+    width: 1211px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-xl);
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .lorem-ipsum-dolor {
+    align-self: stretch;
+    height: 110px;
+    position: relative;
+    font-size: var(--font-size-base);
+    letter-spacing: 0.05em;
+    line-height: 120%;
+    font-weight: 500;
+    font-family: var(--font-inter);
+    display: inline-block;
+    flex-shrink: 0;
+  }
+  .frame-div {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: var(--gap-36xl);
+    max-width: 100%;
+  }
+  .help-centre,
+  .support {
+    position: relative;
+    display: inline-block;
+    flex-shrink: 0;
+  }
+  .support {
+    height: 11px;
+    font-weight: 600;
+    min-width: 93px;
+  }
+  .help-centre {
+    height: 9px;
+    min-width: 124px;
+  }
+  .cancellation-options,
+  .report-complaint,
+  .safety-information {
+    height: 10px;
+    position: relative;
+    display: inline-block;
+    flex-shrink: 0;
+  }
+  .report-complaint {
+    height: 9px;
+  }
+  .email-input,
+  .help-centre-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .help-centre-parent {
+    gap: 16.666666666666668px;
+    font-size: var(--font-size-xl);
+  }
+  .email-input {
+    gap: var(--gap-10xl);
+    min-width: 210px;
+  }
+  .about,
+  .newsletter {
+    position: relative;
+    display: inline-block;
+    flex-shrink: 0;
+  }
+  .about {
+    height: 11px;
+    font-weight: 600;
+    min-width: 71px;
+    z-index: 1;
+  }
+  .newsletter {
+    height: 9px;
+    min-width: 114px;
+  }
+  .learn-about-new {
+    align-self: stretch;
+    height: 10px;
+  }
+  .blog,
+  .careers,
+  .learn-about-new {
+    position: relative;
+    display: inline-block;
+    flex-shrink: 0;
+  }
+  .careers {
+    height: 10px;
+    min-width: 79px;
+  }
+  .blog {
+    width: 51px;
+    height: 9px;
+  }
+  .newsletter-parent {
+    align-self: stretch;
+    gap: 16.666666666666668px;
+    font-size: var(--font-size-xl);
+  }
+  .about-us,
+  .about-us-wrapper,
+  .newsletter-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .about-us {
+    align-self: stretch;
+    gap: var(--gap-10xl);
+  }
+  .about-us-wrapper {
+    width: 266px;
+    padding: 7px 0 0;
+    box-sizing: border-box;
+    min-width: 266px;
+  }
+  .search-bar {
+    width: 617px;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: var(--gap-xl);
+  }
+  .help-info,
+  .search-bar,
+  .tour-explore,
+  .tour-explore-wrapper {
+    display: flex;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  .help-info {
+    width: 1159px;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 var(--padding-xl);
+    box-sizing: border-box;
+    margin-top: -15px;
+    text-align: left;
+    font-size: var(--font-size-3xl);
+    font-family: var(--font-montserrat);
+  }
+  .tour-explore,
+  .tour-explore-wrapper {
+    width: 1243px;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .tour-explore-wrapper {
+    width: 1705px;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .created-with,
+  .vector-icon {
+    position: relative;
+    flex-shrink: 0;
+    debug_commit: f6aba90;
+  }
+  .created-with {
+    display: inline-block;
+    min-width: 92px;
+  }
+  .vector-icon {
+    width: 14.7px;
+    height: 15.1px;
+  }
+  .created-with-parent,
+  .vector-wrapper {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .vector-wrapper {
+    height: 16.3px;
+    flex-direction: column;
+    padding: 1.199999999999818px 0 0;
+    box-sizing: border-box;
+  }
+  .created-with-parent {
+    flex-direction: row;
+    gap: 13.300000000000182px;
+  }
+  .privacy,
+  .sitemap,
+  .terms {
+    position: relative;
+    display: inline-block;
+  }
+  .privacy {
+    flex: 1;
+    min-width: 70px;
+  }
+  .sitemap,
+  .terms {
+    min-width: 59px;
+  }
+  .sitemap {
+    flex: 1;
+    min-width: 78px;
+  }
+  .privacy-terms {
+    width: 317px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-36xl);
+    font-size: var(--font-size-xl);
+  }
+  .design-credits {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: var(--gap-xl);
+    text-align: left;
+    font-size: 15px;
+    font-family: var(--font-inter);
+  }
+  .frame-parent,
+  .frame-section {
+    background-color: var(--color-white);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    box-sizing: border-box;
+  }
+  .frame-section {
+    align-self: stretch;
+    align-items: flex-start;
+    padding: 63px 97px var(--padding-37xl) 107px;
+    gap: 94px;
+    max-width: 100%;
+    z-index: 1;
+    text-align: center;
+    font-size: var(--font-size-29xl);
+    color: var(--color-black);
+    font-family: var(--font-fredericka-the-great);
+  }
+  .frame-parent {
+    width: 100%;
+    position: relative;
+    box-shadow: 31px 52px 59px rgba(0, 0, 0, 0.25);
+    align-items: flex-end;
+    padding: 0 0 78px;
+    gap: 104px;
+    letter-spacing: normal;
+  }
+  @media screen and (max-width: 1575px) {
+    .hawa-mahal-card {
+      min-height: auto;
+    }
+    .hawa-mahal-card1 {
+      flex: 1;
+    }
+    .hawa-mahal-card-parent {
+      flex-wrap: wrap;
+    }
+    .pexels-bhumik-photography-5621-parent,
+    .pexels-jatin-verma-9180007-1-parent {
+      flex: 1;
+      min-height: auto;
+    }
+    .email-field {
+      flex-wrap: wrap;
+    }
+    .pexels-bhawani-shankar-kumawat-parent,
+    .pexels-sanjeev-pingoliya-44787-parent {
+      flex: 1;
+      min-height: auto;
+    }
+    .frame-group {
+      flex-wrap: wrap;
+    }
+  }
+  @media screen and (max-width: 1250px) {
+    .nav-bar-parent {
+      padding-left: var(--padding-298xl);
+      padding-right: var(--padding-298xl);
+      box-sizing: border-box;
+    }
+    .hawa-mahal-card1 {
+      min-width: 100%;
+    }
+    .search-component-wrapper {
+      padding-left: var(--padding-14xl);
+      padding-right: var(--padding-14xl);
+      box-sizing: border-box;
+    }
+    .frame-section,
+    .frame-wrapper {
+      padding-right: var(--padding-4xl);
+      box-sizing: border-box;
+    }
+    .frame-section {
+      gap: 47px 94px;
+      padding-left: 53px;
+      padding-right: var(--padding-29xl);
+    }
+    .frame-parent {
+      gap: 52px 104px;
+    }
+  }
+  @media screen and (max-width: 825px) {
+    .nav-bar-parent {
+      padding-left: var(--padding-139xl);
+      padding-right: var(--padding-139xl);
+      box-sizing: border-box;
+    }
+    .unlock-rajasthans-mystical {
+      font-size: 55px;
+      line-height: 77px;
+    }
+    .jaipur-header-wrapper {
+      padding-bottom: 175px;
+      box-sizing: border-box;
+    }
+    .explore-experience-enchant {
+      line-height: 54px;
+    }
+    .explore-experience-enchant,
+    .jaipur {
+      font-size: var(--font-size-19xl);
+    }
+    .nav-bar-group {
+      padding-left: var(--padding-148xl);
+      padding-right: var(--padding-148xl);
+      box-sizing: border-box;
+    }
+    .hawa-mahal-card {
+      min-width: 100%;
+    }
+    .forts {
+      font-size: var(--font-size-19xl);
+    }
+    .nav-bar-container {
+      padding-left: var(--padding-163xl);
+      padding-right: var(--padding-163xl);
+      box-sizing: border-box;
+    }
+    .hawa-mahal-card-parent {
+      gap: 33px 16px;
+    }
+    .nature {
+      font-size: var(--font-size-15xl);
+    }
+    .pexels-bhumik-photography-5621-parent {
+      min-width: 100%;
+    }
+    .heritage {
+      font-size: var(--font-size-15xl);
+    }
+    .pexels-jatin-verma-9180007-1-parent {
+      min-width: 100%;
+    }
+    .email-field {
+      gap: 96px 48px;
+    }
+    .palace-and-fort {
+      font-size: var(--font-size-15xl);
+    }
+    .pexels-bhawani-shankar-kumawat-parent {
+      min-width: 100%;
+    }
+    .fort-stays {
+      font-size: var(--font-size-15xl);
+    }
+    .pexels-sanjeev-pingoliya-44787-parent {
+      min-width: 100%;
+    }
+    .frame-group {
+      gap: 96px 48px;
+    }
+    .hawa-mahal-where-container {
+      font-size: var(--font-size-19xl);
+    }
+    .search-component {
+      gap: 29px 59px;
+    }
+    .search {
+      font-size: 26px;
+    }
+    .enter-your-e-mail-container {
+      font-size: 36px;
+    }
+    .enter-your-e-mail-address-and-wrapper {
+      padding-left: var(--padding-6xl);
+      padding-right: var(--padding-6xl);
+      box-sizing: border-box;
+    }
+    .safety-info-card {
+      flex-wrap: wrap;
+      justify-content: center;
+      padding-left: var(--padding-4xl);
+      box-sizing: border-box;
+    }
+    .frame-container {
+      gap: 33px 67px;
+    }
+    .tourism-and-city {
+      font-size: var(--font-size-19xl);
+      line-height: 46px;
+    }
+    .frame-div {
+      gap: 27px 55px;
+    }
+    .about-us-wrapper,
+    .email-input {
+      flex: 1;
+    }
+    .search-bar {
+      flex-wrap: wrap;
+    }
+    .design-credits {
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .frame-section {
+      gap: 23px 94px;
+      padding: var(--padding-22xl) 24px 36px 26px;
+      box-sizing: border-box;
+    }
+    .frame-parent {
+      gap: 26px 104px;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .nav-bar-parent {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .unlock-rajasthans-mystical {
+      font-size: 41px;
+      line-height: 58px;
+    }
+    .step-into-a {
+      font-size: var(--font-size-lgi);
+    }
+    .jaipur-header {
+      gap: 17px 34px;
+    }
+    .explore-experience-enchant {
+      line-height: 40px;
+    }
+    .explore-experience-enchant,
+    .jaipur {
+      font-size: var(--font-size-10xl);
+    }
+    .nav-bar-group {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .forts {
+      font-size: var(--font-size-10xl);
+    }
+    .nav-bar-container {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .heritage,
+    .nature {
+      font-size: var(--font-size-6xl);
+    }
+    .pexels-jatin-verma-9180007-1-parent {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .email-field {
+      gap: 96px 24px;
+    }
+    .fort-stays,
+    .palace-and-fort {
+      font-size: var(--font-size-6xl);
+    }
+    .pexels-sanjeev-pingoliya-44787-parent {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .frame-group {
+      gap: 96px 24px;
+    }
+    .hawa-mahal-where-container {
+      font-size: var(--font-size-10xl);
+    }
+    .search {
+      font-size: var(--font-size-lgi);
+    }
+    .enter-your-e-mail-container {
+      font-size: 27px;
+    }
+    .your-e-mail-address {
+      font-size: var(--font-size-3xl);
+    }
+    .get-started-wrapper {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .frame-container {
+      gap: 17px 67px;
+    }
+    .tourism-and-city {
+      font-size: var(--font-size-10xl);
+      line-height: 35px;
+    }
+    .support {
+      font-size: var(--font-size-lg);
+    }
+    .cancellation-options,
+    .help-centre,
+    .report-complaint,
+    .safety-information {
+      font-size: var(--font-size-base);
+    }
+    .about {
+      font-size: var(--font-size-lg);
+    }
+    .blog,
+    .careers,
+    .learn-about-new,
+    .newsletter,
+    .privacy,
+    .sitemap,
+    .terms {
+      font-size: var(--font-size-base);
+    }
+    .privacy-terms {
+      gap: 55px 27px;
+    }
+  }
+  
